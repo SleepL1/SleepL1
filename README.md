@@ -10,7 +10,6 @@
 - 🥅 2022 Goals: Help other people, Stop procrastinating, and avoid bad feelings!
 - ⚡ Fun fact: I feel very curious about the humand mind, so I'm planning to study psychology as a second career (Nothing related with Technology lol)
 - ⚡ Fun fact 2: I love art but I don't know how to draw 🤡
-<br />
 
 ### Connect with me:
 
