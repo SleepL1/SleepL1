@@ -15,7 +15,6 @@
 
 [<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" />][discord]
 <br />
-<br />
 
 ### Languages and Tools:
 
