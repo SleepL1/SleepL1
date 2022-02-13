@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" />][discord]
+[<img align="left" alt="Discord Logo" width="26px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"/>][discord]
 <br />
 
 ### Languages and Tools:
@@ -25,14 +25,14 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f336d9f45f8be462df5bbc91289.png" style="paddingright:10px;"/>]
 [<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" style="padding-right:10px;"/>]
 
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SleepL1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepL1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="SleepL1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepL1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
 </details>
 
