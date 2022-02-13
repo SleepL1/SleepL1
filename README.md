@@ -1,4 +1,4 @@
-### Hello, I'm SleepL1 👋
+# Hello, I'm SleepL1 👋
 
 ## I'm a Self-Taught Programmer
 
@@ -12,6 +12,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" />][discord]
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -29,7 +31,12 @@
 <br />
 
 ---
-  <img align="left" alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=SleepL1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="SleepL1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SleepL1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 
 [discord]: SleepL1#idon'trememberfornow
