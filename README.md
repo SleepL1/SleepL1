@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hello, I'm SleepL1 👋
 
-<!--
-**SleepL1/SleepL1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Self-Taught Programmer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Videogame (No name for for now) and a Custom Java Game Engine
+- 🌱 I’m currently learning about almost everything related with Computer Graphics, Web Development, Machine Learning, and some Personal Development
+- 👯 I’m looking to collaborate with other people to create tools that can help the society in the future
+- 😄 Pronouns: Any pronoun
+- 🥅 2022 Goals: Help other people, Stop procrastinating, and avoid bad feelings!
+- ⚡ Fun fact: I feel very curious about the humand mind, so I'm planning to study psychology as a second career (Nothing related with Technology lol)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg" />][discord]
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>]
+[<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" style="padding-right:10px;"/>]
+
+<br />
+<br />
+
+---
+  <img align="left" alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=SleepL1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
+[discord]: SleepL1#idon'trememberfornow
