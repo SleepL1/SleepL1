@@ -25,7 +25,7 @@
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f336d9f45f8be462df5bbc91289.png" style="paddingright:10px;"/>]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f336d9f45f8be462df5bbc91289.png" style="padding-right:10px;"/>]
 [<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" style="padding-right:10px;"/>]
 
 ---
