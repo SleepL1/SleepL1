@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/364fc8a0ee7fcebf47ca6ebd16ec12f1.svg" />][discord]
+[<img align="left" alt="Discord Logo" width="22px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" />][discord]
 
 ### Languages and Tools:
 
