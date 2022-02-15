@@ -14,6 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Discord Logo" width="26px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"/>][discord]
+[<img align="left" alt="Instagram Logo" width="26px" src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>][instagram]
 <br />
 
 ### Languages and Tools:
@@ -39,3 +40,4 @@
 
 
 [discord]: SleepL1#idon'trememberfornow
+[instagram]: 
