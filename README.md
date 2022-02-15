@@ -40,4 +40,4 @@
 
 
 [discord]: SleepL1#idon'trememberfornow
-[instagram]: 
+[instagram]: https://www.instagram.com/l1sleep/
