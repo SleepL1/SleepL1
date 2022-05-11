@@ -3,7 +3,6 @@
 
 ## I'm a Self-Taught Programmer
 
-- 🔭 I’m currently working on a Videogame (No name for for now) and a Custom Java Game Engine
 - 🌱 I’m currently learning about almost everything related with Computer Graphics, Web Development, Machine Learning, and some Personal Development
 - 👯 I’m looking to collaborate with other people to create tools that can help the society in the future
 - 😄 Pronouns: Any pronoun
@@ -13,7 +12,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord Logo" width="26px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg"/>][discord]
 [<img align="left" alt="Instagram Logo" width="26px" src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>][instagram]
 <br />
 
@@ -28,6 +26,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
+
 <br />
 
 ---
@@ -39,5 +39,4 @@
 </details>
 
 
-[discord]: SleepL1#idon'trememberfornow
 [instagram]: https://www.instagram.com/l1sleep/
